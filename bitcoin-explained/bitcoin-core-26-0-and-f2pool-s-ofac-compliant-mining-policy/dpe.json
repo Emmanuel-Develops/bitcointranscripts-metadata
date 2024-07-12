@@ -298,64 +298,59 @@
             "text": "go?"
         },
         {
-            "id": 51,
             "start": 40.08,
             "end": 40.28,
             "text": "Too"
         },
         {
-            "id": 52,
             "start": 40.28,
             "end": 40.58,
             "text": "many"
         },
         {
-            "id": 53,
             "start": 40.58,
             "end": 41.08,
             "text": "conferences."
         },
         {
-            "id": 54,
             "start": 41.12,
             "end": 41.32,
             "text": "In"
         },
         {
-            "id": 55,
             "start": 41.32,
             "end": 41.82,
             "text": "fact,"
         },
         {
-            "id": 56,
             "start": 41.82,
             "end": 42.18,
             "text": "Bitcoin"
         },
         {
-            "id": 57,
             "start": 42.18,
             "end": 42.68,
             "text": "Indonesia,"
         },
         {
-            "id": 58,
             "start": 43.26,
             "end": 43.76,
             "text": "Nastrasia"
         },
         {
-            "id": 59,
             "start": 43.98,
             "end": 44.18,
             "text": "in"
         },
         {
-            "id": 60,
             "start": 44.18,
             "end": 44.68,
             "text": "Tokyo."
+        },
+        {
+            "start": 44.68,
+            "end": 44.68,
+            "text": "*"
         },
         {
             "id": 61,
@@ -550,100 +545,154 @@
             "text": "between."
         },
         {
-            "id": 93,
             "start": 51.58,
             "end": 51.66,
             "text": "All"
         },
         {
-            "id": 94,
             "start": 51.66,
             "end": 51.96,
             "text": "right."
         },
         {
-            "id": 95,
             "start": 51.96,
             "end": 52.239998,
             "text": "Well,"
         },
         {
-            "id": 96,
             "start": 52.239998,
             "end": 52.38,
             "text": "you"
         },
         {
-            "id": 97,
             "start": 52.38,
             "end": 52.54,
             "text": "were"
         },
         {
-            "id": 98,
             "start": 52.54,
             "end": 52.8,
             "text": "gone"
         },
         {
-            "id": 99,
             "start": 52.8,
             "end": 53,
             "text": "for"
         },
         {
-            "id": 100,
             "start": 53,
             "end": 53.16,
             "text": "so"
         },
         {
-            "id": 101,
             "start": 53.16,
             "end": 53.36,
             "text": "long"
         },
         {
-            "id": 102,
             "start": 53.36,
             "end": 53.52,
             "text": "that"
         },
         {
-            "id": 103,
             "start": 53.52,
             "end": 53.760002,
             "text": "there's"
         },
         {
-            "id": 104,
             "start": 53.760002,
             "end": 53.94,
             "text": "a"
         },
         {
-            "id": 105,
             "start": 53.94,
             "end": 54.08,
             "text": "new"
         },
         {
-            "id": 106,
             "start": 54.08,
             "end": 54.36,
             "text": "Bitcoin"
         },
         {
-            "id": 107,
             "start": 54.36,
             "end": 54.6,
             "text": "Core"
         },
         {
-            "id": 108,
             "start": 54.6,
             "end": 55.1,
             "text": "release."
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "testing"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "markdown"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "formatting"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "is"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "kept"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "on"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "save,"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "this"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "should"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "be"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "*italicized*"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "and"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "this"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "**bold**"
         },
         {
             "id": 109,
