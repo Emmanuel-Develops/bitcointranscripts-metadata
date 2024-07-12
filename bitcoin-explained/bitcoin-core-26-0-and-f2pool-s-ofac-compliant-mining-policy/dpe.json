@@ -695,6 +695,26 @@
             "text": "**bold**"
         },
         {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "\\n"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "test"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "new"
+        },
+        {
+            "start": 55.1,
+            "end": 55.1,
+            "text": "line"
+        },
+        {
             "id": 109,
             "start": 55.6,
             "end": 55.84,
@@ -8764,6 +8784,36 @@
             "start": 502.26,
             "end": 502.66,
             "text": "it."
+        },
+        {
+            "start": 502.66,
+            "end": 502.66,
+            "text": "But"
+        },
+        {
+            "start": 502.66,
+            "end": 502.66,
+            "text": "the"
+        },
+        {
+            "start": 502.66,
+            "end": 502.66,
+            "text": "impact"
+        },
+        {
+            "start": 502.66,
+            "end": 502.66,
+            "text": "is"
+        },
+        {
+            "start": 502.66,
+            "end": 502.66,
+            "text": "pretty"
+        },
+        {
+            "start": 502.66,
+            "end": 502.66,
+            "text": "minor."
         },
         {
             "start": 502.66,
